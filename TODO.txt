@@ -1,0 +1,4 @@
+TODOLIST for Mp3Player v2
+
+- make the rewind button as previous button and move it up next to play button
+- make previous song function
